@@ -1,5 +1,5 @@
 
-## ***👋 Hey, I’m [@Mujeeb Shaik](https://www.instagram.com/mujeebshk_/)***
+<!-- ## ***👋 Hey, I’m [@Mujeeb Shaik](https://www.instagram.com/mujeebshk_/)*** -->
 ![preview img](/mujeeb.gif)
 <!-- ![enter image description here](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png) -->
 <p align="center">
