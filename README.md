@@ -2,7 +2,7 @@
 ## ***👋 Hey, I’m [@Mujeeb Shaik](https://www.instagram.com/mujeebshk_/)***
 ![enter image description here](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <p align="center">
-    <img src="./CodeIntro.svg"/>
+    <img src="./Mujeeb.svg"/>
 </p>
 
 
