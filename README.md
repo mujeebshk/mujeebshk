@@ -10,7 +10,8 @@
 - 👀 I’m always interested in learning new things...
 - 🌱 I’m currently doing as a web designer...
 - 💞️ I’m looking to collaborate with Front-End Developers...
-- 📫 You can reach me at: [Twitter-@mujeebshk2](https://twitter.com/mujeebshk2), [LinkedIn-Mujeeb Shaik ](https://www.linkedin.com/in/mujeeb-shaik-1a9961224/)
+- 🥅 2022 Goals: Keep learning and keep contributing
+<!-- - 📫 You can reach me at: [Twitter-@mujeebshk2](https://twitter.com/mujeebshk2), [LinkedIn-Mujeeb Shaik ](https://www.linkedin.com/in/mujeeb-shaik-1a9961224/) -->
 
 ## Connect with me:
 <div>
