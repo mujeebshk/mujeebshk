@@ -6,11 +6,19 @@
     <img src="./Mujeeb.svg"/>
 </p>
 
+Passionate Software Engineer with hands-on experience building enterprise dashboards, responsive web applications, and CRM-based frontend solutions. Skilled in React, JavaScript, TypeScript, HTML, CSS, API integrations, debugging, and performance optimization.  
 
-- 👀 I’m always interested in learning new things...
-- 🌱 I’m currently doing Web & Andriod Development...
-- 💞️ I’m looking to collaborate with Front-End Developers...
-- 🥅 2026 Goals: Keep learning and keep contributing
+Experienced in Veeva CRM, Veeva MyInsights, Salesforce dashboards, and analytics platforms. Strong problem-solving mindset with interest in Application Support, Service Desk, and Technical Support roles.
+
+
+- 💼 Software Engineer with enterprise project experience  
+- 📊 Built dashboards for pharmaceutical sales teams using Veeva MyInsights  
+- ⚛️ Strong in React, JavaScript, HTML, CSS, TypeScript  
+- 🔧 Good at debugging, troubleshooting & issue resolution  
+- ☁️ Familiar with AWS, GitHub Actions, Linux  
+- 📱 Worked on responsive tablet-first and cross-platform apps  
+- 🤝 Team player with Agile/Scrum experience  
+- 🎯 2026 Goal: Grow into Product Support / Software Engineer / Technical Specialist role  
 <!-- - 📫 You can reach me at: [Twitter-@mujeebshk2](https://twitter.com/mujeebshk2), [LinkedIn-Mujeeb Shaik ](https://www.linkedin.com/in/mujeeb-shaik-1a9961224/) -->
 
 ## Connect with me:
