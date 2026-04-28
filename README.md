@@ -6,13 +6,9 @@
     <img src="./Mujeeb.svg"/>
 </p>
 
-Passionate Software Engineer with hands-on experience building enterprise dashboards, responsive web applications, and CRM-based frontend solutions. Skilled in React, JavaScript, TypeScript, HTML, CSS, API integrations, debugging, and performance optimization.  
+Passionate Software Engineer with strong knowledge of web development and hands-on project experience building responsive web applications, dashboards, and frontend solutions. Skilled in React, JavaScript, TypeScript, HTML, CSS, SQL, Python, API integration, debugging, and problem-solving. Quick learner eager to contribute technical skills and grow in Software Engineering, Frontend Development, Application Support, and IT roles.
 
-Experienced in Veeva CRM, Veeva MyInsights, Salesforce dashboards, and analytics platforms. Strong problem-solving mindset with interest in Application Support, Service Desk, and Technical Support roles.
-
-
-- 💼 Software Engineer with enterprise project experience  
-- 📊 Built dashboards for pharmaceutical sales teams using Veeva MyInsights  
+ 
 - ⚛️ Strong in React, JavaScript, HTML, CSS, TypeScript  
 - 🔧 Good at debugging, troubleshooting & issue resolution  
 - ☁️ Familiar with AWS, GitHub Actions, Linux  
@@ -31,8 +27,7 @@ Experienced in Veeva CRM, Veeva MyInsights, Salesforce dashboards, and analytics
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
